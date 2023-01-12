@@ -2,7 +2,7 @@
 <div align="center">
   <p>
     <em>
-      Software Developer at <a href="https://www.rebase.com.br/">Rebase</a>
+      Software Developer at <a href="https://www.rebase.com.br/" target="_blank">Rebase</a>
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
     </em>
   </p>
