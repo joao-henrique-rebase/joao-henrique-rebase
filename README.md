@@ -1,5 +1,11 @@
-<h2> Hi, I'm JH Vale! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
+<h2> Olá, sou JH Vale! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
 <div align="center">
+  <p>
+    <em>
+      Software Developer at <a href="https://www.rebase.com.br/">Rebase</a>
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+    </em>
+  </p>
   <img width="49%" height="195px"
     src="https://github-readme-stats.vercel.app/api?username=joao-henrique-rebase&show_icons=true&count_private=true&hide_border=true&title_color=00C6F3&icon_color=00c7f4&text_color=F9F8F9&bg_color=0d1117"
     alt="Caroline Barbosa github stats" />
